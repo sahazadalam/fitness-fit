@@ -115,7 +115,3 @@
 - MongoDB (for backend)
 
 ### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/fitness-fit.git
-cd fitness-fit
