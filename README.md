@@ -26,15 +26,6 @@ https://fitnessfitt.netlify.app/
 
 ---
 
-# 🎥 Demo
-
-### 📺 Full Application Demo
-
-(Add your YouTube or Loom demo video)
-
-Example
-
-https://youtu.be/YOUR_VIDEO_LINK
 
 ---
 
