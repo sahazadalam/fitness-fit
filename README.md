@@ -217,7 +217,7 @@ npm start
 
 # 👨‍💻 Developer
 
-## Sahzad Alam
+## Sahazad Alam
 
 Full Stack Developer
 
